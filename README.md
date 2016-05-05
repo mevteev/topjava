@@ -112,6 +112,7 @@ Optional
 
 #### Разное
 -  <a href="http://jeeconf.com/materials/intellij-idea/">Эффективная работа с кодом в IntelliJ IDEA</a>
+-  <a href="http://www.quizful.net/test">Quizful- тесты онлайн</a>
 
 #### Книги
 -  <a href="http://www.ozon.ru/context/detail/id/24828676/">Джошуа Блох: Java. Эффективное программирование. Второе издание</a>
