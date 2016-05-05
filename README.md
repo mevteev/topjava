@@ -23,11 +23,9 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
                     href="http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8#.D0.A0.D0.B0.D1.81.D0.BF.D1.80.D0.B5.D0.B4.D0.B5.D0.BB.D1.91.D0.BD.D0.BD.D1.8B.D0.B5_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D1.8B_.D1.83.D0.BF.D1.80.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_.D0.B2.D0.B5.D1.80.D1.81.D0.B8.D1.8F.D0.BC.D0.B8">VCS/DVSC</a>.
 -  Ресурсы:            
     -  <a href="https://try.github.io/levels/1/challenges/1">Интерактивная Git обучалка</a>
-    -  <a href="http://githowto.com/ru">Основы Git</a>
+    - <a href="https://git-scm.com/book/ru/v2">Книга Git</a>
     -  <a href="https://illustrated-git.readthedocs.org/en/latest/#working-with-remote-repositories">Working with remote repositories</a>
     -  <a href="https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR">Видео по обучению Git</a>
-    -  <a href="http://habrahabr.ru/post/125799/">Как начать работать с GitHub: быстрый старт</a>
-    -  <a href="http://ndpsoftware.com/git-cheatsheet.html">Справочник в графическом виде</a>
     -  <a href="https://blog.interlinked.org/tutorials/git.html">Git Overview</a>
     -  <a href="http://geekbrains.ru/gitstart">Видеокурс по Git</a>
 
@@ -82,11 +80,24 @@ Optional
 ### Ресурсы для подготовки к проекту 
 #### (желательно иметь представление для лучшего усвоения материала)
 
-#### Java Web (Servlets, JSP)
--  <a href="http://www.intuit.ru/studies/courses/569/425/lecture/9683">Введение в сетевое программирование</a>
--  <a href="http://java-course.ru/student/book1/">Основы Java на реальном примере (Servlets, JSP)</a>
+#### Git
+- <a href="https://git-scm.com/book/ru/v2">Книга Git</a>
+- <a href="https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR">Видео: продвинутый Git</a>
+
+#### Java (базовые вещи)
+- <a href="http://www.intuit.ru/studies/courses/16/16/info">Интуит. Программирование на Java</a>
+- <a href="http://ggenikus.github.io/blog/2014/05/04/gc/">Основы Java garbage collection</a>
+- <a href="https://habrahabr.ru/post/134102/">Размер Java объектов</a>
+- <a href="http://www.javaspecialist.ru/p/blog-page.html">Блог о памяти, сборщике мусора, многопоточности и производительности в JAVA</a>
+- <a href="http://www.quizful.net/post/java-reflection-api">Введение в Java Reflection API</a>
+- <a href="https://habrahabr.ru/users/tarzan82/topics/">Структуры данных в картинках</a>
+- <a href="https://habrahabr.ru/company/luxoft/blog/157273/">Обзор java.util.concurrent.*</a>
+- <a href="http://www.skipy.ru/technics/synchronization.html">Синхронизация потоков</a>
+- <a href="http://java67.blogspot.ru/2014/08/difference-between-string-literal-and-new-String-object-Java.html">String literal pool</a>
+- <a href="https://habrahabr.ru/post/132241/">Маленькие хитрости Java</a>
 -  <a href="http://devcolibri.com/4284">Как создать Servlet? Полное руководство.</a>
--  <a href="http://www.techinfo.net.ru/docs/web/javawebdev.html">Технологии Java для разработки веб-приложений</a>
+-  <a href="https://github.com/winterbe/java8-tutorial">A Guide to Java 8</a>
+-  <a href="http://javaxblog.ru/article/java-junit-1/">Java JUnit</a>
 
 #### HTML, JavaScript, CSS 
 -  <a href="http://www.intuit.ru/studies/courses/1102/134/info">Основы работы с HTML/CSS/JavaScript</a>
@@ -94,16 +105,10 @@ Optional
 -  <a href="http://itchief.ru/lessons/bootstrap-3/19-introduction-to-twitter-bootstrap-3">Bootstrap 3 - Основы</a>
 -  <a href="http://anton.shevchuk.name/jquery/">jQuery для начинающих</a>
 
-#### Java Core (Reflection API, JUnit)
--  <a href="http://www.quizful.net/post/java-reflection-api">Введение в Java Reflection API</a>
--  <a href="http://javaxblog.ru/article/java-junit-1/">Java JUnit</a>
-
 #### JDBC, SQL
 -  <a href="https://www.youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2">Уроки по JDBC</a>
 -  <a href="https://www.codecademy.com/learn/learn-sql">Learn SQL</a>
 -  <a href="http://campus.codeschool.com/courses/try-sql/contents">Try SQL</a>
 
 #### Разное
--  <a href="http://www.intuit.ru/studies/courses/16/16/info">Интуит. Программирование на Java</a>
--  <a href="http://spec-zone.ru/RU/Java/Tutorials/java/TOC.html">Oracle Java tutorial на русском.</a>
 -  <a href="http://jeeconf.com/materials/intellij-idea/">Эффективная работа с кодом в IntelliJ IDEA</a>
